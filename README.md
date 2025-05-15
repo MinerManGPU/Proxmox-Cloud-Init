@@ -1,4 +1,4 @@
-## Proxmox VM Creation from Ubuntu 24.04.2 Cloud Templates
+## Proxmox VM Creation from Ubuntu 24.04.2 Cloud Template
 ___
 ### Inspired by modem7's script: [create-ubuntu-cloud-template.sh](https://github.com/modem7/public_scripts/blob/master/Bash/Proxmox%20Scripts/create-ubuntu-cloud-template.sh)
 ___
